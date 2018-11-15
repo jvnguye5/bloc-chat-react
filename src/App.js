@@ -5,12 +5,12 @@ import RoomList from './components/RoomList';
 
 // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyANYpXpS_wTvsCA0HoU7oEGM65dRW46hEU",
-    authDomain: "bloc-chat-37b95.firebaseapp.com",
-    databaseURL: "https://bloc-chat-37b95.firebaseio.com",
-    projectId: "bloc-chat-37b95",
-    storageBucket: "bloc-chat-37b95.appspot.com",
-    messagingSenderId: "786903271541"
+    apiKey: "AIzaSyAPXjWQDKiiBqcnstGuXHMuVUafS3h05LI",
+    authDomain: "bloc-chat-react-e31c8.firebaseapp.com",
+    databaseURL: "https://bloc-chat-react-e31c8.firebaseio.com",
+    projectId: "bloc-chat-react-e31c8",
+    storageBucket: "bloc-chat-react-e31c8.appspot.com",
+    messagingSenderId: "834023023870"
   };
   firebase.initializeApp(config);
 
